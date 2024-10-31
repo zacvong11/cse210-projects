@@ -1,0 +1,4 @@
+Total Points: 140
+SimpleGoal|pushup|do a pushup|50|True
+EternalGoal|pushups|do a pushup every day|10|False
+ChecklistGoal|three pushups|do 3 pushups|10|True|3|3|30
